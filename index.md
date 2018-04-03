@@ -37,46 +37,69 @@ title: Hyperspace by HTML5 UP
 
 <!-- One: Person spotlights -->
 <section id="one" class="wrapper style2 spotlights">	
-	<section>
-	<section>
-		<a href="#" class="image"><img src="images/pic01.jpg" alt="" data-position="center center" /></a>
+	<section> 
+		<!-- Stephen -->
+		<a href="#" class="image"><img src="images/stephen.jpg" alt="" data-position="center center" /></a>
 		<div class="content">
 			<div class="inner">
-				<h2>Sed ipsum dolor</h2>
-				<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
+				<h2>Stephen Brothman</h2>
 				<ul class="actions">
-					<li><a href="#" class="button">Learn more</a></li>
+					<li><a href="#" class="button">Technical Review Paper</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="#" class="image"><img src="images/pic02.jpg" alt="" data-position="top center" /></a>
+		<!-- Sahithi -->
+		<a href="#" class="image"><img src="images/sahithi.jpg" alt="" data-position="center center" /></a>
 		<div class="content">
 			<div class="inner">
-				<h2>Feugiat consequat</h2>
-				<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
+				<h2>Sahithi Bonala</h2>
 				<ul class="actions">
-					<li><a href="#" class="button">Learn more</a></li>
+					<li><a href="images/files/TRP_sahithi.pdf" class="button">Technical Review Paper</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="#" class="image"><img src="images/pic03.jpg" alt="" data-position="25% 25%" /></a>
+		<!-- Karvin -->
+		<a href="#" class="image"><img src="images/karvin.jpg" alt="" data-position="center center" /></a>
 		<div class="content">
 			<div class="inner">
-				<h2>Ultricies aliquam</h2>
-				<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
+				<h2>Charith "Karvin" Dassanayake</h2>
 				<ul class="actions">
-					<li><a href="#" class="button">Learn more</a></li>
+					<li><a href="images/files/TRP_karvin.pdf" class="button">Technical Review Paper</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<!-- Sagar -->
+		<a href="#" class="image"><img src="images/sagar.jpg" alt="" data-position="center center" /></a>
+		<div class="content">
+			<div class="inner">
+				<h2>Sagar Mandal</h2>
+				<ul class="actions">
+					<li><a href="images/files/TRP_sagar.pdf" class="button">Technical Review Paper</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<!-- Brandon -->
+		<a href="#" class="image"><img src="images/brandon.jpg" alt="" data-position="center center" /></a>
+		<div class="content">
+			<div class="inner">
+				<h2>Brandon Sheu</h2>
+				<ul class="actions">
+					<li><a href="#" class="button">Technical Review Paper</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 </section>
 
-<!-- Two -->
+<!-- Two - OTHER DOCUMENTATION-->
 <section id="two" class="wrapper style3 fade-up">
 	<div class="inner">
 		<h2>What we do</h2>
